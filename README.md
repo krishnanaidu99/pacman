@@ -4,7 +4,3 @@ Pac-Man game written in HTML5 + CSS3 + jQuery with Canvas. This WebApp is a Resp
 <a href="https://pacman-e281c.firebaseapp.com">Play game</a>
 
 
-
-
-ranjith is a good boy
-yaqgizsyQSIIU
