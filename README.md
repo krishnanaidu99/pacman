@@ -7,3 +7,4 @@ Pac-Man game written in HTML5 + CSS3 + jQuery with Canvas. This WebApp is a Resp
 
 
 ranjith is a good boy
+yaqgizsyQSIIU
